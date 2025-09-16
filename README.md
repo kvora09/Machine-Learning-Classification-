@@ -1,8 +1,13 @@
 # Machine-Learning-Classification-
-Machine learning models: Logistic Regression, Decision Trees and Random Forest on Telecom Churn data set
-### You have a telecom firm that has collected data of all its customers. The main types of attributes are as follows:
-1)Demographics (age, gender, etc.)
-2)Services availed (internet packs purchased, special offers taken, etc.)
-3)Expenses (amount of recharge done per month, etc.)
+## 📌 Project Overview
+This project focuses on predicting customer churn for a telecom company using multiple machine learning algorithms. The aim is to compare different supervised learning models and evaluate their performance to determine the most effective one for churn prediction.
 
-Based on all this past information, you want to build a model that will predict whether a particular customer will churn or not, i.e., whether they will switch to a different service provider or not. So, the variable of interest, i.e., the target variable here is ‘Churn’, which will tell us whether or not a particular customer has churned. It is a binary variable where 1 means that the customer has churned and 0 means that the customer has not churned.
+## 🎯 Objective
+1) Analyze telecom customer data to identify churn patterns.
+2) Implement and compare multiple machine learning models.
+3) Select the best-performing model based on evaluation metrics.
+
+## 🛠️ Tech Stack
+1) Programming Language: Python
+2) Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn,Statsmodel
+3) Tools: Jupyter Notebook
